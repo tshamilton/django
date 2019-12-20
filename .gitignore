@@ -1,0 +1,5 @@
+boards/__pycache__/*
+boards/static/*
+boards/migrations/*
+myproject/__pycache__/*
+polls/__pycache__/*
