@@ -3,6 +3,7 @@
 
 NB: 
 * django-admin startproject mysite to create project.
+
 * python manage.py runserver to turn site on
 * python manage.py startapp polls to create polls app
 
